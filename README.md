@@ -17,7 +17,7 @@ A [Telegram][0] transport for [winston][1].
 Installation:
 ``` sh
 $ npm install winston@3
-$ npm install winston-telegram@2
+$ npm install winston-telegram-mazh@2
 ```
 
 ## Looking for `winston-telegram@1.x` ?
